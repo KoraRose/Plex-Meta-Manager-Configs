@@ -175,6 +175,7 @@ dynamic_collections:
     data:
       all4: All 4
       appletv: Apple TV+
+      star: Star+
       bet: BET+
       britbox: BritBox
       disney: Disney+
@@ -186,6 +187,8 @@ dynamic_collections:
       paramount: Paramount+
       peacock: Peacock
       amazon: Prime Video
+      starz: Starz
+      crunchyroll : Crunchyroll
     title_format: <<key_name>> <<library_type>>s
     template_variables:
       use:
